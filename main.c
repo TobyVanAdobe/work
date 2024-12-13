@@ -13,5 +13,6 @@ main(void)
 	scanf("%s", Operation);
 	Result = Calculate(Numeral, Operation);
 	printf("%6.2f\n", Result);
+	printf("file has been modified");
 	return 0;
 }

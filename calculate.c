@@ -58,4 +58,5 @@ Calculate (float Numeral, char Operation[4])
 		printf("Incorrectly entered action ");
 		return(HUGE_VAL);
 	}
+	printf("File has been changed");
 }
